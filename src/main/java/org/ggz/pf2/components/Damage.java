@@ -1,6 +1,7 @@
 package org.ggz.pf2.components;
 
 
+
 import static org.ggz.pf2.SimFight.roll;
 
 import org.ggz.pf2.Debug;

@@ -35,9 +35,9 @@ public class SimFight {
   private static final int WEAPON_LEVEL = 1;
 
   private static final int SIMULATIONS = 10000;
-
-
   private static final Random random = new Random();
+
+
   private final int simulationCount;
   private final Supplier<Collection<Combatant>> sideA;
   private final Strategy sideAStrategy;
